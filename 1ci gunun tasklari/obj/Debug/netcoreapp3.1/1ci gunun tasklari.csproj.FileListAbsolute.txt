@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\bin\Debug\netcoreapp3.1\1ci gunun tasklari.exe
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\bin\Debug\netcoreapp3.1\1ci gunun tasklari.deps.json
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\bin\Debug\netcoreapp3.1\1ci gunun tasklari.runtimeconfig.json
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\bin\Debug\netcoreapp3.1\1ci gunun tasklari.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\bin\Debug\netcoreapp3.1\1ci gunun tasklari.dll
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\bin\Debug\netcoreapp3.1\1ci gunun tasklari.pdb
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\obj\Debug\netcoreapp3.1\1ci gunun tasklari.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\obj\Debug\netcoreapp3.1\1ci gunun tasklari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\obj\Debug\netcoreapp3.1\1ci gunun tasklari.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\obj\Debug\netcoreapp3.1\1ci gunun tasklari.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\obj\Debug\netcoreapp3.1\1ci gunun tasklari.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\obj\Debug\netcoreapp3.1\1ci gunun tasklari.dll
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\obj\Debug\netcoreapp3.1\1ci gunun tasklari.pdb
+C:\Users\ASUS\source\repos\taskkskkk\1ci gunun tasklari\obj\Debug\netcoreapp3.1\1ci gunun tasklari.genruntimeconfig.cache
